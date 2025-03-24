@@ -25,7 +25,7 @@ A simple script to download, install, and activate Gurobi Optimizer with all nec
 
 ```bash
 git clone https://github.com/hadipourh/grabgurobi
-cd grab-gurobi
+cd grabgurobi
 ```
 
 2. Make the script executable and run it:
