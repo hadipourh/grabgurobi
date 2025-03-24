@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-A simple script to download, install, and activate Gurobi Optimizer with all necessary environment setup on Linux. 
+A simple script to download, install, and activate Gurobi Optimizer with all necessary environment setup on Linux and macOS.
 
 
 ## 🛠️ Requirements
