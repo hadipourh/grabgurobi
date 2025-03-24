@@ -4,6 +4,11 @@
 
 A simple script to download, install, and activate Gurobi Optimizer with all necessary environment setup on Linux and macOS.
 
+## 🖥️ Supported Platforms
+
+- ✅ Linux (tested on Ubuntu)
+- ✅ macOS (tested on recent versions with zsh)
+
 
 ## 🛠️ Requirements
 
@@ -19,7 +24,7 @@ A simple script to download, install, and activate Gurobi Optimizer with all nec
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/grab-gurobi.git
+git clone https://github.com/hadipourh/grabgurobi
 cd grab-gurobi
 ```
 
@@ -42,7 +47,7 @@ gurobi.sh
 If needed, manually activate the environment in your current shell:
 
 ```bash
-source ~/.bashrc
+source ~/.bashrc # or ~/.zshrc on macOS
 ```
 
 ## 📄 License
