@@ -47,7 +47,5 @@ source ~/.bashrc
 
 ## 📄 License
 
-This project is licensed under the [GNU GPLv3]( https://www.gnu.org/licenses/gpl-3.0.txt).
-See the LICENSE file for more details.
-
-© 2025 Hosein Hadipour
+The content is licensed under the [GNU GPLv3]( https://www.gnu.org/licenses/gpl-3.0.txt).
+See the [LICENSE](LICENSE) file for more details.
