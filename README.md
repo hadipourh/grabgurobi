@@ -27,7 +27,7 @@ cd grabgurobi
 
 ```bash
 chmod +x install_gurobi.sh
-./install_gurobi.sh
+./installer.sh
 ```
 
 ## 🌱 After Installation
